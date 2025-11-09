@@ -31,7 +31,7 @@ O principal objetivo foi trabalhar o desenvolvimento de uma *landing page visual
 <br>
 <h2 align = "center">📷 Imagem do Projeto</h2>
 
-<img align = "center" alt="vista do projeto" height="500" width="800" src = "https://github.com/MaSabino74/WeCare--PetShop/blob/main/wecarpetshopetShop.webp">
+<img align = "center" alt="vista do projeto" height="300" width="600" src = "https://github.com/MaSabino74/WeCare--PetShop/blob/main/wecarpetshopetShop.webp">
 <br>
 ## 🔗 Conecte-se Comigo
 
