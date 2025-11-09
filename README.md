@@ -23,15 +23,15 @@ O principal objetivo foi trabalhar o desenvolvimento de uma *landing page visual
 <p>Aqui estão as principais tecnologias utilizadas no desenvolvimento projeto:</p>
 <br>
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
 
 <br>
 <h2 align = "center">📷 Imagem do Projeto</h2>
 
-<img src = "https://github.com/MaSabino74/WeCare--PetShop/blob/main/wecarpetshopetShop.webp">
+<img align = "center" alt="vista do projeto" height="150" width="180" src = "https://github.com/MaSabino74/WeCare--PetShop/blob/main/wecarpetshopetShop.webp">
 <br>
 ## 🔗 Conecte-se Comigo
 
