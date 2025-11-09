@@ -1,0 +1,88 @@
+@media (max-width: 768px) {
+    header {
+        margin: 20px 10px 40px 10px; /* Margens menores e simétricas */
+    }
+
+    .link-header {
+        font-size: 16px; /* Fonte menor para links */
+        margin-right: 10px; /* Menos espaço entre links */
+    }
+
+    .button-header {
+        width: 100px;
+        height: 35px;
+        font-size: 18px;
+        line-height: 22px;
+        border-radius: 15px;
+    }
+
+    .logo-image {
+        width: 100%; /* Ocupa 100% da largura do container pai */
+        height: auto; /* Ajusta proporcionalmente */
+        margin-left: 0; /* Remove margem lateral para não quebrar no móvel */
+        display: block;
+    }
+
+    main {
+        flex-direction: column; /* Empilha conteúdo verticalmente */
+        padding-top: 20px;
+    }
+
+    section {
+        display: block;
+        margin-left: 0;
+        padding: 0 10px;
+        width: 90%; /* Ajusta largura para evitar overflow */
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 36px; /* Reduz tamanho do título */
+        line-height: 40px;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 24px;
+        width: 100%; /* Ocupa toda a largura disponível */
+        margin-top: 8px;
+        margin-bottom: 40px;
+        text-align: center;
+        padding: 0 10px;
+    }
+
+    .button-main {
+        width: 80%;
+        max-width: 250px;
+        height: 50px;
+        font-size: 20px;
+        line-height: 24px;
+        border-radius: 25px;
+        display: block;
+        margin: 0 auto 30px auto;
+    }
+
+    .footer-container {
+        max-width: 100%; /* Ocupa toda a largura disponível */
+        padding: 15px 10px;
+        margin: 40px auto 20px auto;
+    }
+
+    .footer-texto,
+    .footer-destaque {
+        flex-direction: column; /* Empilha itens verticalmente no footer */
+        font-size: 12px;
+        margin: 5px 0;
+    }
+
+    .footer-destaque {
+        font-size: 10px;
+    }
+}
