@@ -20,12 +20,12 @@ O principal objetivo foi trabalhar o desenvolvimento de uma *landing page visual
 
 <h2 align = "center">💻  Tecnologias utilizadas</h2>
 <br>
-<p>Aqui estão as principais tecnologias que utilizo no desenvolvimento Front-End:
-</p>
+<p>Aqui estão as principais tecnologias utilizadas no desenvolvimento projeto:</p>
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-<br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+
 <br>
 <h2 align = "center">📷 Imagem do Projeto</h2>
 
@@ -42,9 +42,3 @@ O principal objetivo foi trabalhar o desenvolvimento de uma *landing page visual
 
 <br>
 
-## 💻 Tecnologias e Habilidades
-
-Aqui estão as principais tecnologias que utilizo no desenvolvimento Front-End:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
