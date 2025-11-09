@@ -28,7 +28,7 @@ O principal objetivo foi trabalhar o desenvolvimento de uma *landing page visual
   <img align="center" alt="CSS" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-<div style="display: inline_block">>
+<div style="display: inline_block">
 <h2 align = "center">📷 Imagem do Projeto</h2>
 
 <img align = "center" src = "https://github.com/MaSabino74/WeCare--PetShop/blob/main/wecarpetshopetShop.webp" >
